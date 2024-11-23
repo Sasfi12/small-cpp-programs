@@ -7,8 +7,6 @@
 
 
 int main(){
-//first declare the values. 
-//they will all be double for maximum accracy. 
 double a ;
 double b ;
 double c ;
