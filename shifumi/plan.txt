@@ -1,0 +1,12 @@
+Objective, Play Rock, paper, scissors with da computa.
+
+use random to take inputs.
+
+
+
+
+
+
+
+
+BONUS: make an extended version that includes the dynamite. 
