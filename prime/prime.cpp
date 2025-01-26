@@ -6,7 +6,6 @@ bool prime_check(int n)
 		if (n % i == 0)
 		{
 			return false;
-			break;
 
 		}
 	}
